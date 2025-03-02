@@ -24,7 +24,7 @@ Bu proje, **PyQt5** kütüphanesi kullanılarak geliştirilmiş basit bir **hesa
 
 Aşağıda uygulamanın çalışma sırasında nasıl göründüğünü görebilirsiniz:
 
-![Calculator](image.jpg)
+![Calculator](image.png)
 
 
 ## 🚀 Kurulum ve Çalıştırma
